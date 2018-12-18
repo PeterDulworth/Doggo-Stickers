@@ -1,4 +1,48 @@
 {
+  "stickers" : [
+    {
+      "filename" : "roof.sticker"
+    },
+    {
+      "filename" : "lookup_pup.sticker"
+    },
+    {
+      "filename" : "holding.sticker"
+    },
+    {
+      "filename" : "dog_duck.sticker"
+    },
+    {
+      "filename" : "anger.sticker"
+    },
+    {
+      "filename" : "hmm.sticker"
+    },
+    {
+      "filename" : "anger2.sticker"
+    },
+    {
+      "filename" : "hai.sticker"
+    },
+    {
+      "filename" : "pat.sticker"
+    },
+    {
+      "filename" : "duhhh.sticker"
+    },
+    {
+      "filename" : "dahh.sticker"
+    },
+    {
+      "filename" : "dahh_close.sticker"
+    },
+    {
+      "filename" : "stretch.sticker"
+    },
+    {
+      "filename" : "piggyback.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
