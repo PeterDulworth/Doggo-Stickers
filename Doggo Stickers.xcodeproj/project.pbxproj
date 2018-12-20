@@ -40,6 +40,71 @@
 		D033647121C9810600DAE0E8 /* Doggo Stickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Doggo Stickers.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D033647521C9810600DAE0E8 /* Doggo Stickers StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Doggo Stickers StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D033647921C9810600DAE0E8 /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "Doggo Stickers StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+		D0AD804421CB319E0073E6B6 /* lookup_pup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lookup_pup.png; sourceTree = "<group>"; };
+		D0AD804521CB319E0073E6B6 /* corgi.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corgi.jpeg; sourceTree = "<group>"; };
+		D0AD804621CB319E0073E6B6 /* piggyback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = piggyback.png; sourceTree = "<group>"; };
+		D0AD804721CB319E0073E6B6 /* IMG_3285.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3285.JPG; sourceTree = "<group>"; };
+		D0AD804821CB319E0073E6B6 /* IMG_3293.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3293.JPG; sourceTree = "<group>"; };
+		D0AD804921CB319E0073E6B6 /* IMG_3287.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3287.JPG; sourceTree = "<group>"; };
+		D0AD804A21CB319E0073E6B6 /* looking_up.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = looking_up.psd; sourceTree = "<group>"; };
+		D0AD804B21CB319E0073E6B6 /* hmm.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hmm.jpeg; sourceTree = "<group>"; };
+		D0AD804C21CB319E0073E6B6 /* IMG_3295.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3295.JPG; sourceTree = "<group>"; };
+		D0AD804D21CB319E0073E6B6 /* piggyback.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = piggyback.psd; sourceTree = "<group>"; };
+		D0AD804E21CB319E0073E6B6 /* lookup_pup.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = lookup_pup.psd; sourceTree = "<group>"; };
+		D0AD804F21CB319E0073E6B6 /* IMG_3161.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3161.jpeg; sourceTree = "<group>"; };
+		D0AD805021CB319E0073E6B6 /* pat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pat.png; sourceTree = "<group>"; };
+		D0AD805121CB319E0073E6B6 /* pat.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pat.JPG; sourceTree = "<group>"; };
+		D0AD805221CB319E0073E6B6 /* pug.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pug.JPG; sourceTree = "<group>"; };
+		D0AD805321CB319E0073E6B6 /* duhhh.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = duhhh.jpeg; sourceTree = "<group>"; };
+		D0AD805421CB319E0073E6B6 /* pat.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = pat.psd; sourceTree = "<group>"; };
+		D0AD805521CB319E0073E6B6 /* anger2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = anger2.png; sourceTree = "<group>"; };
+		D0AD805621CB319E0073E6B6 /* anger2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anger2.JPG; sourceTree = "<group>"; };
+		D0AD805721CB319E0073E6B6 /* roof.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roof.png; sourceTree = "<group>"; };
+		D0AD805821CB319E0073E6B6 /* holding.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = holding.png; sourceTree = "<group>"; };
+		D0AD805921CB319E0073E6B6 /* stretch.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = stretch.psd; sourceTree = "<group>"; };
+		D0AD805A21CB319E0073E6B6 /* duhhh.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = duhhh.psd; sourceTree = "<group>"; };
+		D0AD805B21CB319E0073E6B6 /* holding.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = holding.JPG; sourceTree = "<group>"; };
+		D0AD805C21CB319E0073E6B6 /* anger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = anger.png; sourceTree = "<group>"; };
+		D0AD805D21CB319E0073E6B6 /* anger.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = anger.JPG; sourceTree = "<group>"; };
+		D0AD805F21CB319E0073E6B6 /* Generate Wide Gamut Assets.jsx */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Generate Wide Gamut Assets.jsx"; sourceTree = "<group>"; };
+		D0AD806021CB319E0073E6B6 /* stretch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stretch.png; sourceTree = "<group>"; };
+		D0AD806121CB319E0073E6B6 /* holding.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = holding.psd; sourceTree = "<group>"; };
+		D0AD806221CB319E0073E6B6 /* duhhh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = duhhh.png; sourceTree = "<group>"; };
+		D0AD806321CB319E0073E6B6 /* stretch.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stretch.JPG; sourceTree = "<group>"; };
+		D0AD806421CB319E0073E6B6 /* anger.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = anger.psd; sourceTree = "<group>"; };
+		D0AD806521CB319E0073E6B6 /* anger2.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = anger2.psd; sourceTree = "<group>"; };
+		D0AD806621CB319E0073E6B6 /* roof.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = roof.psd; sourceTree = "<group>"; };
+		D0AD806721CB319E0073E6B6 /* dahh_close.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = dahh_close.psd; sourceTree = "<group>"; };
+		D0AD806821CB319E0073E6B6 /* dog_duck.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = dog_duck.psd; sourceTree = "<group>"; };
+		D0AD806921CB319E0073E6B6 /* roof.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = roof.jpeg; sourceTree = "<group>"; };
+		D0AD806A21CB319E0073E6B6 /* hai.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hai.png; sourceTree = "<group>"; };
+		D0AD806C21CB319E0073E6B6 /* Icon-Messages-AppStore-1024x768.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-AppStore-1024x768.png"; sourceTree = "<group>"; };
+		D0AD806D21CB319E0073E6B6 /* Icon-Messages-App-iPadAir-67x50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-App-iPadAir-67x50@2x.png"; sourceTree = "<group>"; };
+		D0AD806E21CB319E0073E6B6 /* Icon-Settings-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Settings-29x29@3x.png"; sourceTree = "<group>"; };
+		D0AD806F21CB319E0073E6B6 /* Icon-Messages-Transcript-32x24@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-Transcript-32x24@3x.png"; sourceTree = "<group>"; };
+		D0AD807021CB319E0073E6B6 /* Icon-Messages-Transcript-32x24@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-Transcript-32x24@2x.png"; sourceTree = "<group>"; };
+		D0AD807121CB319E0073E6B6 /* Icon-Settings-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Settings-29x29@2x.png"; sourceTree = "<group>"; };
+		D0AD807221CB319E0073E6B6 /* Icon-App-iTunes-1024x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-iTunes-1024x1024.png"; sourceTree = "<group>"; };
+		D0AD807321CB319E0073E6B6 /* Icon-Messages-App-27x20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-App-27x20@2x.png"; sourceTree = "<group>"; };
+		D0AD807421CB319E0073E6B6 /* Icon-Messages-app-27x20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-app-27x20@3x.png"; sourceTree = "<group>"; };
+		D0AD807521CB319E0073E6B6 /* Icon-Messages-App-iPadAir-74x55@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-App-iPadAir-74x55@2x.png"; sourceTree = "<group>"; };
+		D0AD807621CB319E0073E6B6 /* Icon-Messages-App-iPhone-60x45@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-App-iPhone-60x45@3x.png"; sourceTree = "<group>"; };
+		D0AD807721CB319E0073E6B6 /* Icon-Messages-App-iPhone-60x45@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Messages-App-iPhone-60x45@2x.png"; sourceTree = "<group>"; };
+		D0AD807821CB319E0073E6B6 /* Template-AppIcons-iMessage-iOS-P3.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Template-AppIcons-iMessage-iOS-P3.psd"; sourceTree = "<group>"; };
+		D0AD807921CB319E0073E6B6 /* hai.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hai.JPG; sourceTree = "<group>"; };
+		D0AD807A21CB319E0073E6B6 /* IMG_3162.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3162.jpeg; sourceTree = "<group>"; };
+		D0AD807B21CB319E0073E6B6 /* puprise.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puprise.JPG; sourceTree = "<group>"; };
+		D0AD807C21CB319E0073E6B6 /* dahh.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dahh.JPG; sourceTree = "<group>"; };
+		D0AD807D21CB319E0073E6B6 /* hmm.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = hmm.psd; sourceTree = "<group>"; };
+		D0AD807E21CB319E0073E6B6 /* dahh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dahh.png; sourceTree = "<group>"; };
+		D0AD807F21CB319E0073E6B6 /* Screen Shot 2018-10-26 at 1.05.39 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-10-26 at 1.05.39 AM.png"; sourceTree = "<group>"; };
+		D0AD808021CB319E0073E6B6 /* dahh.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = dahh.psd; sourceTree = "<group>"; };
+		D0AD808121CB319E0073E6B6 /* hmm.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hmm.png; sourceTree = "<group>"; };
+		D0AD808221CB319E0073E6B6 /* IMG_3288.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3288.JPG; sourceTree = "<group>"; };
+		D0AD808321CB319E0073E6B6 /* hai.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = hai.psd; sourceTree = "<group>"; };
+		D0AD808421CB319E0073E6B6 /* dog_duck.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dog_duck.JPG; sourceTree = "<group>"; };
+		D0AD808521CB319E0073E6B6 /* dog_duck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dog_duck.png; sourceTree = "<group>"; };
+		D0AD808621CB319E0073E6B6 /* dahh_close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dahh_close.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -47,6 +112,7 @@
 			isa = PBXGroup;
 			children = (
 				D033647921C9810600DAE0E8 /* Stickers.xcstickers */,
+				D0AD804321CB319E0073E6B6 /* doggos */,
 				D033647221C9810600DAE0E8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,6 +124,94 @@
 				D033647521C9810600DAE0E8 /* Doggo Stickers StickerPackExtension.appex */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		D0AD804321CB319E0073E6B6 /* doggos */ = {
+			isa = PBXGroup;
+			children = (
+				D0AD804421CB319E0073E6B6 /* lookup_pup.png */,
+				D0AD804521CB319E0073E6B6 /* corgi.jpeg */,
+				D0AD804621CB319E0073E6B6 /* piggyback.png */,
+				D0AD804721CB319E0073E6B6 /* IMG_3285.JPG */,
+				D0AD804821CB319E0073E6B6 /* IMG_3293.JPG */,
+				D0AD804921CB319E0073E6B6 /* IMG_3287.JPG */,
+				D0AD804A21CB319E0073E6B6 /* looking_up.psd */,
+				D0AD804B21CB319E0073E6B6 /* hmm.jpeg */,
+				D0AD804C21CB319E0073E6B6 /* IMG_3295.JPG */,
+				D0AD804D21CB319E0073E6B6 /* piggyback.psd */,
+				D0AD804E21CB319E0073E6B6 /* lookup_pup.psd */,
+				D0AD804F21CB319E0073E6B6 /* IMG_3161.jpeg */,
+				D0AD805021CB319E0073E6B6 /* pat.png */,
+				D0AD805121CB319E0073E6B6 /* pat.JPG */,
+				D0AD805221CB319E0073E6B6 /* pug.JPG */,
+				D0AD805321CB319E0073E6B6 /* duhhh.jpeg */,
+				D0AD805421CB319E0073E6B6 /* pat.psd */,
+				D0AD805521CB319E0073E6B6 /* anger2.png */,
+				D0AD805621CB319E0073E6B6 /* anger2.JPG */,
+				D0AD805721CB319E0073E6B6 /* roof.png */,
+				D0AD805821CB319E0073E6B6 /* holding.png */,
+				D0AD805921CB319E0073E6B6 /* stretch.psd */,
+				D0AD805A21CB319E0073E6B6 /* duhhh.psd */,
+				D0AD805B21CB319E0073E6B6 /* holding.JPG */,
+				D0AD805C21CB319E0073E6B6 /* anger.png */,
+				D0AD805D21CB319E0073E6B6 /* anger.JPG */,
+				D0AD805E21CB319E0073E6B6 /* Script - Generate Wide Gamut */,
+				D0AD806021CB319E0073E6B6 /* stretch.png */,
+				D0AD806121CB319E0073E6B6 /* holding.psd */,
+				D0AD806221CB319E0073E6B6 /* duhhh.png */,
+				D0AD806321CB319E0073E6B6 /* stretch.JPG */,
+				D0AD806421CB319E0073E6B6 /* anger.psd */,
+				D0AD806521CB319E0073E6B6 /* anger2.psd */,
+				D0AD806621CB319E0073E6B6 /* roof.psd */,
+				D0AD806721CB319E0073E6B6 /* dahh_close.psd */,
+				D0AD806821CB319E0073E6B6 /* dog_duck.psd */,
+				D0AD806921CB319E0073E6B6 /* roof.jpeg */,
+				D0AD806A21CB319E0073E6B6 /* hai.png */,
+				D0AD806B21CB319E0073E6B6 /* Template-AppIcons-iMessage-iOS-P3-assets */,
+				D0AD807821CB319E0073E6B6 /* Template-AppIcons-iMessage-iOS-P3.psd */,
+				D0AD807921CB319E0073E6B6 /* hai.JPG */,
+				D0AD807A21CB319E0073E6B6 /* IMG_3162.jpeg */,
+				D0AD807B21CB319E0073E6B6 /* puprise.JPG */,
+				D0AD807C21CB319E0073E6B6 /* dahh.JPG */,
+				D0AD807D21CB319E0073E6B6 /* hmm.psd */,
+				D0AD807E21CB319E0073E6B6 /* dahh.png */,
+				D0AD807F21CB319E0073E6B6 /* Screen Shot 2018-10-26 at 1.05.39 AM.png */,
+				D0AD808021CB319E0073E6B6 /* dahh.psd */,
+				D0AD808121CB319E0073E6B6 /* hmm.png */,
+				D0AD808221CB319E0073E6B6 /* IMG_3288.JPG */,
+				D0AD808321CB319E0073E6B6 /* hai.psd */,
+				D0AD808421CB319E0073E6B6 /* dog_duck.JPG */,
+				D0AD808521CB319E0073E6B6 /* dog_duck.png */,
+				D0AD808621CB319E0073E6B6 /* dahh_close.png */,
+			);
+			path = doggos;
+			sourceTree = "<group>";
+		};
+		D0AD805E21CB319E0073E6B6 /* Script - Generate Wide Gamut */ = {
+			isa = PBXGroup;
+			children = (
+				D0AD805F21CB319E0073E6B6 /* Generate Wide Gamut Assets.jsx */,
+			);
+			path = "Script - Generate Wide Gamut";
+			sourceTree = "<group>";
+		};
+		D0AD806B21CB319E0073E6B6 /* Template-AppIcons-iMessage-iOS-P3-assets */ = {
+			isa = PBXGroup;
+			children = (
+				D0AD806C21CB319E0073E6B6 /* Icon-Messages-AppStore-1024x768.png */,
+				D0AD806D21CB319E0073E6B6 /* Icon-Messages-App-iPadAir-67x50@2x.png */,
+				D0AD806E21CB319E0073E6B6 /* Icon-Settings-29x29@3x.png */,
+				D0AD806F21CB319E0073E6B6 /* Icon-Messages-Transcript-32x24@3x.png */,
+				D0AD807021CB319E0073E6B6 /* Icon-Messages-Transcript-32x24@2x.png */,
+				D0AD807121CB319E0073E6B6 /* Icon-Settings-29x29@2x.png */,
+				D0AD807221CB319E0073E6B6 /* Icon-App-iTunes-1024x1024.png */,
+				D0AD807321CB319E0073E6B6 /* Icon-Messages-App-27x20@2x.png */,
+				D0AD807421CB319E0073E6B6 /* Icon-Messages-app-27x20@3x.png */,
+				D0AD807521CB319E0073E6B6 /* Icon-Messages-App-iPadAir-74x55@2x.png */,
+				D0AD807621CB319E0073E6B6 /* Icon-Messages-App-iPhone-60x45@3x.png */,
+				D0AD807721CB319E0073E6B6 /* Icon-Messages-App-iPhone-60x45@2x.png */,
+			);
+			path = "Template-AppIcons-iMessage-iOS-P3-assets";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
